@@ -9,7 +9,7 @@
 <!-- https://hdqwalls.com/solar-system-minimalism-wallpaper -->
 <img align="right" src="https://user-images.githubusercontent.com/58194113/145751939-38e7efd0-9d6e-4173-ace8-d254832d1621.png" width="20%">
 
-### I'm an Electrical Engineering student at Universidad de Chile with a passion for software and hardware
+### I'm an Electrical Engineering student at Universidad de Chile, with a passion for software and hardware
 
 <center>
 
