@@ -1,7 +1,5 @@
-<p align="center">
-    <!-- https://www.pinterest.cl/pin/856035841641281772/ -->
-    <img src="https://user-images.githubusercontent.com/58194113/145742223-fdf9dd40-9db5-4899-8472-7face0578f98.gif" alt="My banner">
-</p>
+<!-- https://www.pinterest.cl/pin/856035841641281772/ -->
+<img align="center" src="https://user-images.githubusercontent.com/58194113/145742223-fdf9dd40-9db5-4899-8472-7face0578f98.gif" alt="My banner">
 
 
 # Hi! I'm Cristóbal :vulcan_salute:
@@ -17,8 +15,10 @@
 ---
 ## :information_source: About me
 - :dog: I love dachshunds (I have 5 of them)
+- :hammer: I like to create things and solve challenging problems
+- :drum: I play the drums on my spare time
+- :video_game: I like to play video games (when I have the time)
 
-<!-- --- -->
 ## :telescope: My areas of interest
 - :abacus: Mathematics
 - :star: Physics and astronomy
@@ -28,10 +28,9 @@
 - :zap: Electronics
 - :video_game: Video game development
 
-<!-- --- -->
 ## :eyes: What I'm up to
 - Currently working on my signal processing project
-- Working on software to simulate antennas and electromagnetic waves
+- Developing software to simulate antennas and electromagnetic waves
 
 ## :wrench: Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,6 +43,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## :book: What I'm learning
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -51,5 +52,9 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10) -->
