@@ -3,28 +3,12 @@
     <img src="https://user-images.githubusercontent.com/58194113/145742223-fdf9dd40-9db5-4899-8472-7face0578f98.gif" alt="My banner">
 </p>
 
-<!-- <style>
-    /* .row {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    } */
-
-    /* .row .column {
-        flex: 50%;
-    } */
-</style> -->
-
-<div class="row" style="display: flex; flex-direction: row; align-items: center;">
-    <div class="column" style="flex: 50%">
-        <h1 align="center">Hi! I'm Cristóbal :ok_hand:</h1>
-    </div>
-    <div class="column" style="flex: 50%">
-        <h3 align="center">
-            I'm an Electrical Engineering student at Universidad de Chile, with a passion for hardware and software.
-        </h3>
-    </div>
-</div>
+<h1 align="center">
+    Hi! I'm Cristóbal :vulcan_salute:
+</h1>
+<h3 align="center">
+    I'm an Electrical Engineering student at Universidad de Chile, with a passion for hardware and software.
+</h3>
 
 
 <!--
