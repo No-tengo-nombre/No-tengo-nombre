@@ -11,13 +11,8 @@
 
 ### I'm an Electrical Engineering student at Universidad de Chile, with a passion for software and hardware
 
-<center>
-
 [![Gmail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:callendes.molina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobal-allendes-molina/)
-
-</center>
-
 
 ---
 ## :information_source: About me
