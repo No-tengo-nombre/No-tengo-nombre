@@ -3,10 +3,13 @@
     <img src="https://user-images.githubusercontent.com/58194113/145742223-fdf9dd40-9db5-4899-8472-7face0578f98.gif" alt="My banner">
 </p>
 
-<!-- ![My banner](https://user-images.githubusercontent.com/58194113/145742223-fdf9dd40-9db5-4899-8472-7face0578f98.gif) -->
 
-# <center> Hi! I'm Cristóbal :vulcan_salute:
-### <center> I'm an Electrical Engineering student at Universidad de Chile with a passion for software and hardware
+# Hi! I'm Cristóbal :vulcan_salute:
+
+<!-- https://hdqwalls.com/solar-system-minimalism-wallpaper -->
+<img align="right" src="https://user-images.githubusercontent.com/58194113/145751939-38e7efd0-9d6e-4173-ace8-d254832d1621.png" width="20%">
+
+### I'm an Electrical Engineering student at Universidad de Chile with a passion for software and hardware
 
 <center>
 
@@ -15,30 +18,43 @@
 
 </center>
 
+
 ---
 ## :information_source: About me
-- :dog: I love dachshunds (I have 5 of them) 
-- 
+- :dog: I love dachshunds (I have 5 of them)
 
----
+<!-- --- -->
 ## :telescope: My areas of interest
-- 
+- :abacus: Mathematics
+- :star: Physics and astronomy
+- :framed_picture: Signal and image processing
+- :computer: Computer hardware and software
+- :robot: Machine learning and robotics
+- :zap: Electronics
+- :video_game: Video game development
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10)
+<!-- --- -->
+## :eyes: What I'm up to
+- Currently working on my signal processing project
+- Working on software to simulate antennas and electromagnetic waves
 
-![a](https://github-readme-stats.vercel.app/api?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10)
+## :wrench: Languages and tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<!--
-**No-tengo-nombre/No-tengo-nombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
+## :book: What I'm learning
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10) -->
