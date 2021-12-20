@@ -53,6 +53,8 @@ https://github.com/anuraghazra/github-readme-stats
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10)
+
 ## :book: What I'm learning
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -64,4 +66,3 @@ https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-<!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10) -->
