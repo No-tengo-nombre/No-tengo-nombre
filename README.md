@@ -38,7 +38,9 @@ https://github.com/anuraghazra/github-readme-stats
 ## :eyes: What I'm up to
 - Currently working on my signal processing project
 - Developing software to simulate antennas and electromagnetic waves
-- Working on a game engine in rust
+- Working on various tools using Rust (mainly numerical methods and cientific
+  visualization)
+- Working on a game engine in Rust
 
 ## :wrench: Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
