@@ -32,15 +32,14 @@ https://github.com/anuraghazra/github-readme-stats
 - :framed_picture: Signal and image processing
 - :computer: Computer hardware and software
 - :robot: Machine learning and robotics
-- :zap: Electronics
+- :zap: Electronics and control systems
 - :video_game: Video game development
+- :art: Graphics programming
 
 ## :eyes: What I'm up to
-- Currently working on my signal processing project
-- Developing software to simulate antennas and electromagnetic waves
-- Working on various tools using Rust (mainly numerical methods and scientific
-  visualization)
-- Working on a game engine in Rust
+- **Going to college (this takes up most of my time)**
+- Working on *Wiener*, a graphics programming library in Rust
+- Doing variuos other projects in Rust
 
 ## :wrench: Languages and tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
