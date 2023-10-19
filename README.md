@@ -39,7 +39,7 @@ https://github.com/anuraghazra/github-readme-stats
 ## :eyes: What I'm up to
 - **Going to college (this takes up most of my time)**
 - Working on *Wiener*, a graphics programming library in Rust
-- Doing variuos other projects in Rust
+- Working on *otto*, a GPGPU library for fast computing in C
 
 ## :wrench: Languages and tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
