@@ -73,6 +73,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
