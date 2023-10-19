@@ -5,7 +5,7 @@ https://github.com/anuraghazra/github-readme-stats
  -->
 
 <!-- https://www.pinterest.cl/pin/856035841641281772/ -->
-<img align="center" src="https://user-images.githubusercontent.com/58194113/145742223-fdf9dd40-9db5-4899-8472-7face0578f98.gif" alt="My banner">
+<img align="center" src="img/banner3.gif" alt="My banner">
 
 
 # Hi! I'm Cristóbal :vulcan_salute:
