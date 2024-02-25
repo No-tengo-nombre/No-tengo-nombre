@@ -38,9 +38,9 @@ https://github.com/anuraghazra/github-readme-stats
 
 ## :eyes: What I'm up to
 - **Going to college (this takes up most of my time)**
-- [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics programming library in Rust
+- [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics engine using Rust and OpenGL, mostly intended as a learning project
 - [**otto**](https://github.com/No-tengo-nombre/otto), a GPGPU library for fast computing in C
-- [**terra**](https://github.com/No-tengo-nombre/terra), a graphics engine and game engine made in C using the Vulkan API
+- [**terra**](https://github.com/No-tengo-nombre/terra), a graphics engine made in C using the Vulkan API
 
 ## :wrench: Languages and tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
