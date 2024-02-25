@@ -21,7 +21,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 ---
 ## :information_source: About me
-- :dog: I love dachshunds (I have 5 of them)
+- :dog: I love dachshunds (I have 6 of them)
 - :hammer: I like to create things and solve challenging problems
 - :drum: I play the drums on my spare time
 - :video_game: I like to play video games (when I have the time)
@@ -38,8 +38,9 @@ https://github.com/anuraghazra/github-readme-stats
 
 ## :eyes: What I'm up to
 - **Going to college (this takes up most of my time)**
-- Working on [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics programming library in Rust
-- Working on [**otto**](https://github.com/No-tengo-nombre/otto), a GPGPU library for fast computing in C
+- [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics programming library in Rust
+- [**otto**](https://github.com/No-tengo-nombre/otto), a GPGPU library for fast computing in C
+- [**terra**](https://github.com/No-tengo-nombre/terra), a graphics engine and game engine made in C using the Vulkan API
 
 ## :wrench: Languages and tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -49,7 +50,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
