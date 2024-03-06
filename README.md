@@ -64,6 +64,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![sklearn](https://img.shields.io/badge/sklearn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)
+![Vulkan](https://img.shields.io/badge/Vulkan-a11111?style=flat&logo=vulkan&logoColor=white)
 ![OpenCL](https://img.shields.io/badge/OpenCL-%23FFFFFF.svg?style=flat&logo=openai&logoColor=black)
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
@@ -85,7 +86,6 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-a11111?style=flat&logo=vulkan&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
