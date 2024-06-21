@@ -13,7 +13,7 @@ https://github.com/anuraghazra/github-readme-stats
 <!-- https://hdqwalls.com/solar-system-minimalism-wallpaper -->
 <img align="right" src="img/planets-compact-rot-nobg.png" width="20%">
 
-### I'm an Electrical Engineering student at Universidad de Chile, with a passion for software and hardware
+### I'm an Electrical Engineering student at Universidad de Chile, and researcher at CASE, with a passion for software and hardware
 
 [![Personal website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://no-tengo-nombre.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:callendes.molina@gmail.com)
@@ -25,6 +25,7 @@ https://github.com/anuraghazra/github-readme-stats
 - :hammer: I like to create things and solve challenging problems
 - :drum: I play the drums on my spare time
 - :video_game: I like to play video games (when I have the time)
+- :computer: Low-level software enjoyer
 
 ## :telescope: My areas of interest
 - :abacus: Mathematics
@@ -38,6 +39,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 ## :eyes: What I'm up to
 - **Going to college (this takes up most of my time)**
+- Working at CASE (this takes the other rest of my time)
 - [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics engine using Rust and OpenGL, mostly intended as a learning project
 - [**otto**](https://github.com/No-tengo-nombre/otto), a GPGPU library for fast computing in C
 - [**terra**](https://github.com/No-tengo-nombre/terra), a graphics engine made in C using the Vulkan API
@@ -46,6 +48,8 @@ https://github.com/anuraghazra/github-readme-stats
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Octave](https://img.shields.io/badge/Octave-darkblue?style=flat&logo=octave&logoColor=fcd683)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23B125EA.svg?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -66,9 +70,10 @@ https://github.com/anuraghazra/github-readme-stats
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/Vulkan-a11111?style=flat&logo=vulkan&logoColor=white)
 ![OpenCL](https://img.shields.io/badge/OpenCL-%23FFFFFF.svg?style=flat&logo=openai&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/MSVC-0078d7.svg?style=flat&logo=visual%20studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/MSVC-0078d7.svg?style=flat&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
