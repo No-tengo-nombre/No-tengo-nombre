@@ -13,7 +13,7 @@ https://github.com/anuraghazra/github-readme-stats
 <!-- https://hdqwalls.com/solar-system-minimalism-wallpaper -->
 <img align="right" src="img/planets-compact-rot-nobg.png" width="20%">
 
-### I'm an Electrical Engineering student at Universidad de Chile, and researcher at CASE, with a passion for software and hardware
+### I'm a Electrical Engineering Master's student at Universidad de Chile, and researcher at CASE, with a passion for software and hardware
 
 [![Personal website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://no-tengo-nombre.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:callendes.molina@gmail.com)
@@ -38,7 +38,7 @@ https://github.com/anuraghazra/github-readme-stats
 - :art: Graphics programming
 
 ## :eyes: What I'm up to
-- **Going to college (this takes up most of my time)**
+- **Working on my Master's thesis (this takes up most of my time)**
 - Working at CASE (this takes the other rest of my time)
 - [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics engine using Rust and OpenGL, mostly intended as a learning project
 - [**otto**](https://github.com/No-tengo-nombre/otto), a GPGPU library for fast computing in C
