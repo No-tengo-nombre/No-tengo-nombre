@@ -74,7 +74,6 @@ https://github.com/anuraghazra/github-readme-stats
 ![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/Visual-Studio-0078d7.svg?style=flat&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
@@ -86,11 +85,11 @@ https://github.com/anuraghazra/github-readme-stats
 <!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10) -->
 ![stats](https://vercel-instance-host-7hur.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex&include_all_commits=true&exclude_repo=vercel-instance-host)
 
-## :desktop_computer: My setup
+<!-- ## :desktop_computer: My setup -->
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-1793D0.svg?&style=flat&logo=archlinux&logoColor=white)
-![Kitty](https://img.shields.io/badge/Kitty-000000.svg?&style=flat&logoColor=white&logo=gnometerminal)
+<!-- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white) -->
+<!-- ![Arch](https://img.shields.io/badge/Arch-1793D0.svg?&style=flat&logo=archlinux&logoColor=white) -->
+<!-- ![Kitty](https://img.shields.io/badge/Kitty-000000.svg?&style=flat&logoColor=white&logo=gnometerminal) -->
 
 ## :book: What I'm learning
 
