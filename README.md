@@ -71,16 +71,16 @@ https://github.com/anuraghazra/github-readme-stats
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)
 ![Vulkan](https://img.shields.io/badge/Vulkan-a11111?style=flat&logo=vulkan&logoColor=white)
 ![OpenCL](https://img.shields.io/badge/OpenCL-%23FFFFFF.svg?style=flat&logo=openai&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
-![Visual Studio](https://img.shields.io/badge/MSVC-0078d7.svg?style=flat&logo=visual%20studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual-Studio-0078d7.svg?style=flat&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10) -->
@@ -98,5 +98,6 @@ https://github.com/anuraghazra/github-readme-stats
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
 
 ---
