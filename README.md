@@ -89,7 +89,7 @@ https://github.com/anuraghazra/github-readme-stats
 ## :desktop_computer: My setup
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-0000AA.svg?&style=flat&logo=archlinux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D0.svg?&style=flat&logo=archlinux&logoColor=white)
 ![Kitty](https://img.shields.io/badge/Kitty-000000.svg?&style=flat&logoColor=white&logo=gnometerminal)
 
 ## :book: What I'm learning
