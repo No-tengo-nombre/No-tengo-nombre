@@ -83,7 +83,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10) -->
-![stats](https://vercel-instance-host-7hur.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex&include_all_commits=true&exclude_repo=vercel-instance-host)
+![stats](https://vercel-instance-host-7hur.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex&include_all_commits=true&exclude_repo=vercel-instance-host,dotfiles)
 
 <!-- ## :desktop_computer: My setup -->
 
