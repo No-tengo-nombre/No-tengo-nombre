@@ -76,8 +76,8 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
