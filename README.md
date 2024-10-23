@@ -13,7 +13,7 @@ https://github.com/anuraghazra/github-readme-stats
 <!-- https://hdqwalls.com/solar-system-minimalism-wallpaper -->
 <img align="right" src="img/planets-compact-rot-nobg.png" width="20%">
 
-### I'm a Electrical Engineering Master's student at Universidad de Chile, and researcher at CASE, with a passion for software and hardware
+### I'm an Electrical Engineering Master's student at Universidad de Chile, researcher at CASE, and doing my thesis at IDS, with a passion for software and hardware
 
 [![Personal website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://no-tengo-nombre.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:callendes.molina@gmail.com)
@@ -56,12 +56,12 @@ https://github.com/anuraghazra/github-readme-stats
 ![Octave](https://img.shields.io/badge/Octave-darkblue?style=flat&logo=octave&logoColor=fcd683)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23B125EA.svg?style=flat&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=.net&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat&logo=swift&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=LaTeX&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=flat&logo=numpy&logoColor=white)
