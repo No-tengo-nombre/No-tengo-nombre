@@ -18,11 +18,12 @@ https://github.com/anuraghazra/github-readme-stats
 [![Personal website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://no-tengo-nombre.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:callendes.molina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobal-allendes-molina/)
+[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=linkedin&logoColor=white)](https://orcid.org/0009-0009-6189-2368)
 
 ---
 ## :information_source: About me
-- :dog: I love dachshunds (I have 6 of them)
-- :hammer: I like to create things and solve challenging problems
+- :dog: I love wiener dogs
+- :hammer: I like to create things
 - :drum: I play the drums on my spare time
 - :video_game: I like to play video games (when I have the time)
 - :computer: Low-level software enjoyer
@@ -35,11 +36,11 @@ https://github.com/anuraghazra/github-readme-stats
 - :robot: Machine learning and robotics
 - :zap: Electronics and control systems
 - :video_game: Video game development
-- :art: Graphics programming
+- :art: Graphics programming & Technical art
 
 ## :eyes: What I'm up to
-- **Working on my Master's thesis (this takes up most of my time)**
-- Working at CASE (this takes the other rest of my time)
+- Working on my Master's thesis, around detection of model drift in additive noise models
+- Working at CASE, researching electrothermal modeling for lithium-ion batteries
 - [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics engine using Rust and OpenGL, mostly intended as a learning project
 - [**otto**](https://github.com/No-tengo-nombre/otto), a GPGPU library for fast computing in C
 - [**terra**](https://github.com/No-tengo-nombre/terra), a graphics engine made in C using the Vulkan API
