@@ -18,7 +18,7 @@ https://github.com/anuraghazra/github-readme-stats
 [![Personal website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://no-tengo-nombre.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:callendes.molina@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristobal-allendes-molina/)
-[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=linkedin&logoColor=white)](https://orcid.org/0009-0009-6189-2368)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-6189-2368)
 
 ---
 ## :information_source: About me
