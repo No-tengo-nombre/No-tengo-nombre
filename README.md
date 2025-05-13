@@ -11,7 +11,7 @@ https://github.com/anuraghazra/github-readme-stats
 # Hi! I'm Cristóbal :vulcan_salute:
 
 <!-- https://hdqwalls.com/solar-system-minimalism-wallpaper -->
-<img align="right" src="img/planets-compact-rot-nobg.png" width="20%">
+<!-- <img align="right" src="img/planets-compact-rot-nobg.png" width="20%"> -->
 
 ### I'm an Electrical Engineering Master's student at Universidad de Chile, researcher at CASE, and doing my thesis at AC3E, with a passion for software and hardware
 
