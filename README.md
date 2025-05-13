@@ -13,7 +13,7 @@ https://github.com/anuraghazra/github-readme-stats
 <!-- https://hdqwalls.com/solar-system-minimalism-wallpaper -->
 <img align="right" src="img/planets-compact-rot-nobg.png" width="20%">
 
-### I'm an Electrical Engineering Master's student at Universidad de Chile, researcher at CASE, and doing my thesis at IDS, with a passion for software and hardware
+### I'm an Electrical Engineering Master's student at Universidad de Chile, researcher at CASE, and doing my thesis at AC3E, with a passion for software and hardware
 
 [![Personal website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://no-tengo-nombre.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:callendes.molina@gmail.com)
@@ -28,6 +28,7 @@ https://github.com/anuraghazra/github-readme-stats
 - :drum: I play the drums on my spare time
 - :video_game: I like to play video games (when I have the time)
 - :computer: Low-level software enjoyer
+- :wrench: I cosplay as a sysadmin
 
 ## :telescope: My areas of interest
 - :abacus: Mathematics
@@ -40,9 +41,9 @@ https://github.com/anuraghazra/github-readme-stats
 - :art: Graphics programming & Technical art
 
 ## :eyes: What I'm up to
-- Working on my Master's thesis, around detection of model drift in additive noise models
+- Working on my Master's thesis, around estimation of model drift in additive noise models
 - Working at CASE, researching electrothermal modeling for lithium-ion batteries
-- [**Wiener**](https://github.com/No-tengo-nombre/wiener), a graphics engine using Rust and OpenGL, mostly intended as a learning project
+- [**lion**](https://github.com/prognostics-lab/lion), a lithium-ion battery simulator in C
 - [**otto**](https://github.com/No-tengo-nombre/otto), a GPGPU library for fast computing in C
 - [**terra**](https://github.com/No-tengo-nombre/terra), a graphics engine made in C using the Vulkan API
 
@@ -53,8 +54,6 @@ https://github.com/anuraghazra/github-readme-stats
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
-
 ![Octave](https://img.shields.io/badge/Octave-darkblue?style=flat&logo=octave&logoColor=fcd683)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%23B125EA.svg?style=flat&logo=kotlin&logoColor=white)
@@ -76,13 +75,12 @@ https://github.com/anuraghazra/github-readme-stats
 ![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=flat&logo=nVIDIA&logoColor=green)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
 
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=Docker&logoColor=white)
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10) -->
 ![stats](https://vercel-instance-host-7hur.vercel.app/api/top-langs/?username=No-tengo-nombre&layout=compact&text_color=718096&bg_color=ffffff00&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex&include_all_commits=true&exclude_repo=vercel-instance-host,dotfiles)
